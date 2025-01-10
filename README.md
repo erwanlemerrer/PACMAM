@@ -1,8 +1,11 @@
-# PACMAM
-**Passive or active monitoring and auditing of models - French ANR project 2024-2027**
+# PACMAM: Passive or active monitoring and auditing of models 
+**French ANR project 2024->2028 (ANR-24-CE23-7787)**
+
+![ANR logo](https://anr.fr/typo3conf/ext/anr_skin/Resources/Public/assets/img/anr-logo-2021-complet.png)
 
 url: [bit.ly/PACMAM](https://bit.ly/PACMAM)
 
+## Objectives
 *We are today surrounded by algorithms that make decisions on our behalf. These algorithms,
 often powered by complex machine learning models, operate as black boxes: their internal processes
 are opaque to end users and auditors (who are in charge of enforcing the fairness of these models).
@@ -29,10 +32,11 @@ involvement of PEReN, the French government’s department in charge of algorith
 
 ## Management
 * Project kickoff to be held in Paris in Feb 26 and 27 in PEReN.
+* Recruted Staff
+  * Timothée Chauvin, Ph.D. candidate, started in Jan. 2nd 2025.
 
 ## Contacts
 Gilles Tredan, LAAS/CNRS (Project lead)\
 Erwan Le Merrer, Inria\
 Camilla Penzo, PEReN
 
-![ANR logo](https://anr.fr/typo3conf/ext/anr_skin/Resources/Public/assets/img/anr-logo-2021-complet.png)
