@@ -1,7 +1,7 @@
 # PACMAM
 **Passive or active monitoring and auditing of models - French ANR project 2024-2027**
 
-url: [https](https://bit.ly/PACMAM)
+url: [bit.ly/PACMAM](https://bit.ly/PACMAM)
 
 *We are today surrounded by algorithms that make decisions on our behalf. These algorithms,
 often powered by complex machine learning models, operate as black boxes: their internal processes
