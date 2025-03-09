@@ -31,7 +31,7 @@ involvement of PEReN, the French government’s department in charge of algorith
 * [LLMs hallucinate graphs too: a structural perspective, Erwan Le Merrer and Gilles Tredan, in Complex networks 2024.](https://arxiv.org/html/2409.00159v2) 
 
 ## Management
-* Project kickoff to be held in Paris in Feb 26 and 27 in PEReN.
+* Project kickoff to be held in Paris
 * Recruted Staff
   * Timothée Chauvin, Ph.D. candidate, started in Jan. 2nd 2025.
 
