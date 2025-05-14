@@ -27,16 +27,17 @@ involvement of PEReN, the French government’s department in charge of algorith
 
 ## Backed-up papers
 
-* [Queries, Representation & Detection: The Next 100 Model Fingerprinting Schemes,Augustin Godinot, Erwan Le Merrer, Camilla Penzo, François Taïani, Gilles Trédan, in AAAI 2025](https://arxiv.org/abs/2412.13021)
+* [Robust ML Auditing using Prior Knowledge, Jade Garcia Bourrée, Augustin Godinot, Martijn De Vos, Milos Vujasinovic, Sayan Biswas, Gilles Tredan, Erwan Le Merrer, Anne-Marie Kermarrec, in ICML 2025](https://arxiv.org/pdf/2505.04796)
+* [Queries, Representation & Detection: The Next 100 Model Fingerprinting Schemes, Augustin Godinot, Erwan Le Merrer, Camilla Penzo, François Taïani, Gilles Trédan, in AAAI 2025](https://arxiv.org/abs/2412.13021)
 * [LLMs hallucinate graphs too: a structural perspective, Erwan Le Merrer and Gilles Tredan, in Complex networks 2024.](https://arxiv.org/html/2409.00159v2) 
 
 ## Management
-* Project kickoff to be held in Paris
 * Recruted Staff
   * Timothée Chauvin, Ph.D. candidate, started in Jan. 2nd 2025.
+* Project kickoff on May 20, 2025, at PEReN in Paris.
 
 ## Contacts
 Gilles Tredan, LAAS/CNRS (Project lead)\
 Erwan Le Merrer, Inria\
-Camilla Penzo, PEReN
+PEReN
 
