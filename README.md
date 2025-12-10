@@ -35,10 +35,10 @@ involvement of PEReN, the French government’s department in charge of algorith
 ## Management
 * Recruted Staff
   * Timothée Chauvin, Ph.D. candidate, started in Jan. 2nd 2025.
-* Project kickoff on May 20, 2025, at PEReN in Paris.
+  * Marouane Bazzaoui, Ph.D. candidate, started in Feb. 1rst 2026.
 
 ## Contacts
 Gilles Tredan, LAAS/CNRS (Project lead)\
 Erwan Le Merrer, Inria\
-PEReN
+PEReN, Gohar Dashyan
 
