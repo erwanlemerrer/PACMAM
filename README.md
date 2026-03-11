@@ -33,6 +33,10 @@ involvement of PEReN, the French government’s department in charge of algorith
 * [Queries, Representation & Detection: The Next 100 Model Fingerprinting Schemes, Augustin Godinot, Erwan Le Merrer, Camilla Penzo, François Taïani, Gilles Trédan, in AAAI 2025](https://arxiv.org/abs/2412.13021)
 * [LLMs hallucinate graphs too: a structural perspective, Erwan Le Merrer and Gilles Tredan, in Complex networks 2024.](https://arxiv.org/html/2409.00159v2) 
 
+## Artciles
+
+* [Percer l’opacité des algorithmes en boîte noire](https://project.inria.fr/emergences/percer-lopacite-des-algorithmes-en-boite-noire/), Emergences, 06/03/2026.
+
 ## Management
 * Recruted Staff
   * Timothée Chauvin, Ph.D. candidate, started in Jan. 2nd 2025.
