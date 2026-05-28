@@ -27,13 +27,15 @@ involvement of PEReN, the French government’s department in charge of algorith
 
 ## Backed-up papers
 
+* [Token-Efficient Change Detection in LLM APIs, in ICML 2026](https://arxiv.org/abs/2602.11083)
+* [FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences, in ICML 2026](https://openreview.net/forum?id=5DR4NAKO8a)
 * [Log Probability Tracking of LLM APIs, in ICLR 2026](https://arxiv.org/html/2512.03816v1)
 * [P2NIA: Privacy-Preserving Non-Iterative Auditing, Jade Garcia Bourrée, Hadrien Lautraite, Sébastien Gambs, Gilles Tredan, Erwan Le Merrer, Benoît Rottembourg, in ECML/PKDD 2025](https://arxiv.org/abs/2504.00874)
 * [Robust ML Auditing using Prior Knowledge, Jade Garcia Bourrée, Augustin Godinot, Martijn De Vos, Milos Vujasinovic, Sayan Biswas, Gilles Tredan, Erwan Le Merrer, Anne-Marie Kermarrec, in ICML 2025](https://arxiv.org/pdf/2505.04796)
 * [Queries, Representation & Detection: The Next 100 Model Fingerprinting Schemes, Augustin Godinot, Erwan Le Merrer, Camilla Penzo, François Taïani, Gilles Trédan, in AAAI 2025](https://arxiv.org/abs/2412.13021)
 * [LLMs hallucinate graphs too: a structural perspective, Erwan Le Merrer and Gilles Tredan, in Complex networks 2024.](https://arxiv.org/html/2409.00159v2) 
 
-## Artciles
+## Articles
 
 * [Percer l’opacité des algorithmes en boîte noire](https://project.inria.fr/emergences/percer-lopacite-des-algorithmes-en-boite-noire/), Emergences, 06/03/2026.
 
