@@ -27,6 +27,7 @@ involvement of PEReN, the French government’s department in charge of algorith
 
 ## Backed-up papers
 
+* Leveraging Imperfect Sources to Detect Fairwashing in Black-Box Auditing, in ECML 2026
 * [Token-Efficient Change Detection in LLM APIs, in ICML 2026](https://arxiv.org/abs/2602.11083)
 * [FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences, in ICML 2026](https://openreview.net/forum?id=5DR4NAKO8a)
 * [Log Probability Tracking of LLM APIs, in ICLR 2026](https://arxiv.org/html/2512.03816v1)
